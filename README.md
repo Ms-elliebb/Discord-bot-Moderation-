@@ -10,7 +10,7 @@ I am pleased to present my latest project: a Discord bot designed primarily for 
   <img src="https://pipedream.com/s.v0/app_13GhGn/logo/orig" width="100" height="100" />&nbsp;
  </div>
 
-  ### Main Features:
+### Main Features:
   
 
 User Management: The bot provides functionalities to kick, ban, or mute members based on the discretion of the server administrators.
