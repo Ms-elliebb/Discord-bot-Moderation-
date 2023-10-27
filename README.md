@@ -9,8 +9,9 @@ I am pleased to present my latest project: a Discord bot designed primarily for 
  
   <img src="https://pipedream.com/s.v0/app_13GhGn/logo/orig" width="100" height="100" />&nbsp;
  </div>
+<div
 ### Main Features:
-
+  </div>
 User Management: The bot provides functionalities to kick, ban, or mute members based on the discretion of the server administrators.
 
 Server Organization: One of the standout features is the bot's ability to streamline roles, permissions, and channels. This ensures that each member has the appropriate access and permissions in line with the server's policies.
