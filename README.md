@@ -7,7 +7,7 @@ I am pleased to present my latest project: a Discord bot designed primarily for 
 <div id="header" align="center">
   
  
-  <img src="https://pipedream.com/s.v0/app_13GhGn/logo/orig"/>
+  <img src="https://pipedream.com/s.v0/app_13GhGn/logo/orig" witdh= 40/>
  </div>
 Main Features:
 
