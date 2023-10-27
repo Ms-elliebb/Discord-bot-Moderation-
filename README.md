@@ -13,10 +13,13 @@ I am pleased to present my latest project: a Discord bot designed primarily for 
 ### Main Features:
   
 
-## User Management:  ### The bot provides functionalities to kick, ban, or mute members based on the discretion of the server administrators.
+## User Management:  
+### The bot provides functionalities to kick, ban, or mute members based on the discretion of the server administrators.
 
-## Server Organization: ### One of the standout features is the bot's ability to streamline roles, permissions, and channels. This ensures that each member has the appropriate access and permissions in line with the server's policies.
+## Server Organization: 
+### One of the standout features is the bot's ability to streamline roles, permissions, and channels. This ensures that each member has the appropriate access and permissions in line with the server's policies.
 
-## Automated Moderation:  ### To reduce the administrative burden, the bot is equipped with automatic detection mechanisms that flag or remove inappropriate content.
+## Automated Moderation:  
+### To reduce the administrative burden, the bot is equipped with automatic detection mechanisms that flag or remove inappropriate content.
 
- ### In conclusion, the development of this Discord bot has been an insightful journey into the domain of online community management. I believe that its features and functionalities will serve as valuable assets for administrators of Discord servers. I appreciate your time in reviewing this project, and I am eager to receive any feedback or suggestions for further enhancements.
+### In conclusion, the development of this Discord bot has been an insightful journey into the domain of online community management. I believe that its features and functionalities will serve as valuable assets for administrators of Discord servers. I appreciate your time in reviewing this project, and I am eager to receive any feedback or suggestions for further enhancements.
